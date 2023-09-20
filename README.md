@@ -1,2 +1,1 @@
-# monty
-C - Stacks, Queues - LIFO, FIFO
+# project_LIFO_FIFO
